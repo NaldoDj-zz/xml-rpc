@@ -1,6 +1,13 @@
-2015-05-22 10:39 UTC--300 NaldoDj (marinaldo/dot/jesus/at/blacktdn/dot/com)
-  * xml-rpc : First commit on GitHub
+/*
+ * $Id$
+ */
 
+2015-06-09 21:34 UTC--300 NaldoDj (marinaldo/dot/jesus/at/blacktdn/dot/com)
+  * bin/check.hb
+  * bin/commit.hb
 
 2015-05-22 13:42 UTC--300 NaldoDj (marinaldo/dot/jesus/at/blacktdn/dot/com)
   * README.md
+  
+2015-05-22 10:39 UTC--300 NaldoDj (marinaldo/dot/jesus/at/blacktdn/dot/com)
+  * xml-rpc : First commit on GitHub
